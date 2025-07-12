@@ -10,7 +10,7 @@
 2. Attach a Camera3D as a child of the player for a third-person or first-person view.
 3. Write a script for the player to move (WASD) and jump.
 4. Build a level using CSG nodes (CSGBox, CSGCylinder, etc.) or imported 3D assets with its texture and materials.
-5. **Bonus:** Add collectible coins to the level and implement a score system that increases when coins are collected.
+5. **Bonus:** Add collectible coins to the level and implement a score system that increases when coins are collected.(coin asset in Assets directory)
 
 > No animation required for this task.
 >
