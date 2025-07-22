@@ -7,6 +7,7 @@ This repository contains all the tasks and assignments related to the Game Commi
 ## Tasks Overview
 
 - [Session 9 Task](./Session%209%20Task/task9.md)
+- [Session 10 Task](./Session%2010%20Task/task10.md)
 
 ## Repository Structure
 
