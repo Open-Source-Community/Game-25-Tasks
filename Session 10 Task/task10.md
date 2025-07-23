@@ -16,6 +16,7 @@ Since we have learnt all about 3D assets, making levels and adding environments 
 - point 6 is self-study, but is relatively easy to search for and implement. You might have already tried it before.
 - You are free to use any assets you like from the internet. You can also look at the attached links for reference or to download from.
 - The levels don't need to be complex, and don't need to be indoors. You can make outdoor scenes/levels if you want. Be creative!
+- Deadline will be Monday the 28th at 11:59 PM
 
 ## Resources
 
