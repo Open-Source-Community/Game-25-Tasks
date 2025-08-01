@@ -1,6 +1,6 @@
 # Task 10
 
-Since we have learnt all about 3D assets, making levels and adding environments and lighting, this task we will implement everything we've taked uptill now.
+Since we have learnt all about 3D assets, making levels and adding environments and lighting, this task we will implement everything we've took up till now.
 
 ## Make 2 level and link them
 
@@ -8,7 +8,7 @@ Since we have learnt all about 3D assets, making levels and adding environments 
 2. Make 2 levels/scenes.
 3. The 2 scenes must be different enough. They can share assets but each should have a different layout.
 4. Each level should have an environment. One should use a ProceduralSkyMaterial, while the other uses a PanoramaSkyMaterial
-5. Each level should have a DirectionLight3D node, and atleast one other light source (SpotLight3D or OmniLight3D).
+5. Each level should have a DirectionLight3D node, and at least one other light source (SpotLight3D or OmniLight3D).
 6. The player after going through the first level and reaching the end, should load into the second level.
 7. Bonus: Add a model/mesh to the player and have the camera be in 3rd person
 8. Bonus: Add any other game idea or system you want.
